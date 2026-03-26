@@ -1,2 +1,3 @@
 hello git in linux
 added login feature
+fixed critical bug
